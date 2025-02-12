@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/8BgVXcY.png](https://r2.fivemanage.com/wzlj71mzMVF3Y2yG2tMKq/images/Lurvorx_Scripts_Banner_Banger.jpg)">
+  <img src="https://i.imgur.com/8BgVXcY.png](https://r2.fivemanage.com/wzlj71mzMVF3Y2yG2tMKq/images/Lurvorx_Scripts_Banner_Banger.jpg">
 </div>
 # ✨ Lurvorx Storage
 Are your pockets full? No worry, with lurvorx_storage you can simply purchase an storage unit and store your things in there, without to worry that someone can steal your stuff. Everything is configurable in the beautiful config file. It's that simple. It's even eaiser to delete a players storage unit, all with just one command.
