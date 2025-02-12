@@ -10,9 +10,9 @@ Wanna see a preview before using? Find it here: Coming soon :(
 - Working on more!
 
 💎 **Dependencies**
-- ox_lib
-- ox_inventory (more coming)
-- ox_target (more coming)
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_inventory](https://github.com/overextended/ox_inventory) (more coming)
+- [ox_target](https://github.com/overextended/ox_target) (more coming)
 
 That's it. Simple as that. Now, go and buy an storage unit with lurvorx_storage!
 
