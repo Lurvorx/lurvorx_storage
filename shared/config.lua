@@ -9,8 +9,8 @@ Config = {
 
         -- If you want to use webhook logs to log when players purchase and sell their storages.
         webhook = {
-            useWebhook = true, -- Set to "true/false" if you want to use.
-            webhook = "https://discord.com/api/webhooks/1339059866475565127/6dqsZCEH75n7gHuw4JfJp86Y3LtnuVRedhrxgHgM1vvhKpDl2GZP-M0dEQpf-MiJZ8Xm" -- The webhook link.
+            useWebhook = false, -- Set to "true/false" if you want to use.
+            webhook = "" -- The webhook link.
         },
 
         -- Choose what notification type you want to use.
@@ -31,15 +31,15 @@ Config = {
         price = 1000, -- The price to purchase an storage unit.
         paymentMethod = "bank", -- Options: "bank", "cash"
         slots = 20, -- How many slots the storage unit will have.
-        weight = 10000,
+        weight = 10000, -- The max weight in every storage unit.
 
         adminCanDelete = true, -- Enable or disable that admins can delete players storage.
         deleteCommand = "deletestorage", -- The command to delete an storage.
         group = "admin", -- What group permission you have to be to execute the delete command.
         
         openStorageCoords = vec3(-61.7119, -1205.2439, 28.1573), -- The position for the 3d text.
-        openStorageKey = 38,
-        openStorageText = "~g~[E]~w~ Open your storage unit"
+        openStorageKey = 38, -- What key to open the storage unit with.
+        openStorageText = "~g~[E]~w~ Open your storage unit" -- Label for the 3d text.
     },
 
     -- Configure the strings under here.
