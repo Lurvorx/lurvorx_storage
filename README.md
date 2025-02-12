@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://r2.fivemanage.com/wzlj71mzMVF3Y2yG2tMKq/images/Lurvorx_Scripts_Banner_Banger.jpg">
-</div>
-# ✨ Lurvorx Storage
+
+  # ✨ Lurvorx Storage
 Are your pockets full? No worry, with lurvorx_storage you can simply purchase an storage unit and store your things in there, without to worry that someone can steal your stuff. Everything is configurable in the beautiful config file. It's that simple. It's even eaiser to delete a players storage unit, all with just one command.
 
 Need any help with the script? Join our script discord down below!
@@ -26,3 +26,4 @@ We are an small developer team who are relatively new to FiveM scripting 💻 We
 
 Join our discord today!
 https://discord.gg/8mjp7m2Wy4
+</div>
