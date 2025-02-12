@@ -16,7 +16,7 @@ Wanna see a preview before using? Find it here: Coming soon :(
 That's it. Simple as that. Now, go and buy an storage unit with lurvorx_storage!
 
 ---
-
+![Lurvorx Scripts](https://r2.fivemanage.com/wzlj71mzMVF3Y2yG2tMKq/images/Lurvorx_Scripts_Banner_Banger.jpg)
 # 💪 Lurvorx Scripts
 Welcome to Lurvorx Scripts 👋 An store where we sell high-quality FiveM scripts for fair prices. Not just sell, there are also free scripts to choose from, also made with high-quality.
 
