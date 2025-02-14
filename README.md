@@ -23,4 +23,4 @@ Welcome to Lurvorx Scripts 👋 An store where we sell high-quality FiveM script
 We are an small developer team who are relatively new to FiveM scripting 💻 We are constantly trying to teach our selfs to code FiveM scripts. Our goal is to get big in the FiveM market with may servers using our scripts. We wanna deliver high-quality ✨ scripts to server owners who are trying to find it. One thing is that we will always offer free support for our customers and non-customers.
 
 Join our discord today!
-https://discord.gg/8mjp7m2Wy4
+https://discord.gg/Tzzsh8zVyQ
